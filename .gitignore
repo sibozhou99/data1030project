@@ -1,6 +1,6 @@
-results/lasso/lasso_X_test_preprocessed_all.pkl
-__pycache__/
-*.py[cod]
-*.ipynb_checkpoints
-data/
+# macOS-specific files
 .DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
